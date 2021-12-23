@@ -5,3 +5,14 @@
 5.git push [rep_link] [branch_name]
 
 git push origin master
+
+
+можно создать несколько веток
+master
+develop
+feature/main-page 1 разработчик тут работает, другой в другой ветке и так они не мешают друг другу
+feature/about-company
+
+команада git branch показывает ветки, ветка выделенная зеленым, это та ветка в которой мы находимся
+переключение ветки происходит с помощью git checkout (название ветки)
+например git checkout develop
