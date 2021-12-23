@@ -18,3 +18,4 @@ feature/about-company
 например git checkout develop
 
 перенести из ветки в develop в ветку master есть 2 способа, 1й на гитхаб вкладка pull requests
+git pull origin подгружает из облака слитую ветку, которую мы слили с мастером
